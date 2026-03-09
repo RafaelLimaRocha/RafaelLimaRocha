@@ -3,7 +3,7 @@
 
 ## Olá! Eu sou o Rafael Lima Rocha 🖐️
 
-### Olá tenho 33 anos e sou formado como Técnico em Eletrônica e atualmente trabalho como Supervisor Técnico em uma empresa de segurança. Sou estudante de Análise e Desenvolvimento de Sistemas e meu foco na area de programação é trabalhar como Desenvolvedor Mobile.
+### Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas e experiência em desenvolvimento mobile e front-end. Possuo também formação técnica em Eletrônica e experiência como Supervisor Técnico na área de segurança, o que contribui para uma visão prática na construção de soluções tecnológicas.
 
 ## Tecnologias que estou estudando
 
